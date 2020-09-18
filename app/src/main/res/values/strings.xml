@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Health System</string>
+    <string name="country_prompt">Choose a disease</string>
+
+    <string-array name="country_arrays">
+        <item>Select a disease</item>
+        <item>Coronavirus</item>
+        <item>Heart Diseases</item>
+        <item>Diabetes</item>
+        <item>Fever</item>
+        <item>Cough</item>
+        <item>Dental caries</item>
+        <item>Typhoid and paratyphoid</item>
+        <item>Gastritis</item>
+        <item>Malaria</item>
+        <item>Thyroid carcinoma</item>
+        <item>Stomach Cancer</item>
+    </string-array>
+
+    <string name="country_prompt1">Choose a symptom</string>
+
+    <string-array name="country_arrays1">
+        <item>Select a symptom</item>
+        <item>Heart Diseases</item>
+        <item>Diabetes</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>
